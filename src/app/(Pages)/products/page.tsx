@@ -1,3 +1,4 @@
+'use client'
 import axios from 'axios'
 import Container from '@mui/material/Container'
 import Card from '@mui/material/Card'
