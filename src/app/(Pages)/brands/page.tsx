@@ -1,4 +1,3 @@
-'use client'
 
 import axios from 'axios'
 import Container from '@mui/material/Container'
